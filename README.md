@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dev
 
-🚀 Final Year CSE Student | Data Analyst | Cybersecurity Enthusiast  
+🚀 Final Year CSE Student | Data Analyst | Cybersecurity Enthusiast | AI engineer
 💻 Python • SQL • Power BI  
 
 ---
